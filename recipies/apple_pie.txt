@@ -1,3 +1,5 @@
 apple pie
 
 cheese cake
+
+Data Source=(localdb)\MSSqlLocalDB;Initial Catalog=OdeFood;

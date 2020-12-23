@@ -1,4 +1,6 @@
 D:\srinivasu dandamudi\FirstDotnet.Data\bin\Debug\netcoreapp3.1\FirstDotnet.Data.deps.json
+D:\srinivasu dandamudi\FirstDotnet.Data\bin\Debug\netcoreapp3.1\FirstDotnet.Data.runtimeconfig.json
+D:\srinivasu dandamudi\FirstDotnet.Data\bin\Debug\netcoreapp3.1\FirstDotnet.Data.runtimeconfig.dev.json
 D:\srinivasu dandamudi\FirstDotnet.Data\bin\Debug\netcoreapp3.1\FirstDotnet.Data.dll
 D:\srinivasu dandamudi\FirstDotnet.Data\bin\Debug\netcoreapp3.1\FirstDotnet.Data.pdb
 D:\srinivasu dandamudi\FirstDotnet.Data\bin\Debug\netcoreapp3.1\FirstDotnet.Models.dll
@@ -10,3 +12,4 @@ D:\srinivasu dandamudi\FirstDotnet.Data\obj\Debug\netcoreapp3.1\FirstDotnet.Data
 D:\srinivasu dandamudi\FirstDotnet.Data\obj\Debug\netcoreapp3.1\FirstDotnet.Data.csproj.CopyComplete
 D:\srinivasu dandamudi\FirstDotnet.Data\obj\Debug\netcoreapp3.1\FirstDotnet.Data.dll
 D:\srinivasu dandamudi\FirstDotnet.Data\obj\Debug\netcoreapp3.1\FirstDotnet.Data.pdb
+D:\srinivasu dandamudi\FirstDotnet.Data\obj\Debug\netcoreapp3.1\FirstDotnet.Data.genruntimeconfig.cache
