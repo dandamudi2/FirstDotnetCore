@@ -1,0 +1,8 @@
+D:\srinivasu dandamudi\FirstDotnet.Models\bin\Debug\netcoreapp3.1\FirstDotnet.Models.deps.json
+D:\srinivasu dandamudi\FirstDotnet.Models\bin\Debug\netcoreapp3.1\FirstDotnet.Models.dll
+D:\srinivasu dandamudi\FirstDotnet.Models\bin\Debug\netcoreapp3.1\FirstDotnet.Models.pdb
+D:\srinivasu dandamudi\FirstDotnet.Models\obj\Debug\netcoreapp3.1\FirstDotnet.Models.AssemblyInfoInputs.cache
+D:\srinivasu dandamudi\FirstDotnet.Models\obj\Debug\netcoreapp3.1\FirstDotnet.Models.AssemblyInfo.cs
+D:\srinivasu dandamudi\FirstDotnet.Models\obj\Debug\netcoreapp3.1\FirstDotnet.Models.csproj.CoreCompileInputs.cache
+D:\srinivasu dandamudi\FirstDotnet.Models\obj\Debug\netcoreapp3.1\FirstDotnet.Models.dll
+D:\srinivasu dandamudi\FirstDotnet.Models\obj\Debug\netcoreapp3.1\FirstDotnet.Models.pdb

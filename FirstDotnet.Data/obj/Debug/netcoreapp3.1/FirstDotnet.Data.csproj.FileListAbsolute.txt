@@ -1,0 +1,12 @@
+D:\srinivasu dandamudi\FirstDotnet.Data\bin\Debug\netcoreapp3.1\FirstDotnet.Data.deps.json
+D:\srinivasu dandamudi\FirstDotnet.Data\bin\Debug\netcoreapp3.1\FirstDotnet.Data.dll
+D:\srinivasu dandamudi\FirstDotnet.Data\bin\Debug\netcoreapp3.1\FirstDotnet.Data.pdb
+D:\srinivasu dandamudi\FirstDotnet.Data\bin\Debug\netcoreapp3.1\FirstDotnet.Models.dll
+D:\srinivasu dandamudi\FirstDotnet.Data\bin\Debug\netcoreapp3.1\FirstDotnet.Models.pdb
+D:\srinivasu dandamudi\FirstDotnet.Data\obj\Debug\netcoreapp3.1\FirstDotnet.Data.csprojAssemblyReference.cache
+D:\srinivasu dandamudi\FirstDotnet.Data\obj\Debug\netcoreapp3.1\FirstDotnet.Data.AssemblyInfoInputs.cache
+D:\srinivasu dandamudi\FirstDotnet.Data\obj\Debug\netcoreapp3.1\FirstDotnet.Data.AssemblyInfo.cs
+D:\srinivasu dandamudi\FirstDotnet.Data\obj\Debug\netcoreapp3.1\FirstDotnet.Data.csproj.CoreCompileInputs.cache
+D:\srinivasu dandamudi\FirstDotnet.Data\obj\Debug\netcoreapp3.1\FirstDotnet.Data.csproj.CopyComplete
+D:\srinivasu dandamudi\FirstDotnet.Data\obj\Debug\netcoreapp3.1\FirstDotnet.Data.dll
+D:\srinivasu dandamudi\FirstDotnet.Data\obj\Debug\netcoreapp3.1\FirstDotnet.Data.pdb

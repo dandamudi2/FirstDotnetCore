@@ -1,0 +1,31 @@
+﻿@page
+@model FirstDotNetCore.Pages.ListModel
+@using FirstDotnet.Models;
+@{
+}
+
+
+
+<div class="container">
+
+    <table class="table table-border">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Location</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Restaurant restaurant in Model.restaurants)
+            {
+              <tr>
+                    <td>@restaurant.Id</td>
+                    <td>@restaurant.Name</td>
+                    <td>@restaurant.Location</td>
+                  <td><a  asp-page="./Details" asp-route-restaurantId="@restaurant.Id" class="btn btn-warning">Details</a></td>
+              </tr>
+            }
+        </tbody>
+    </table>
+</div>

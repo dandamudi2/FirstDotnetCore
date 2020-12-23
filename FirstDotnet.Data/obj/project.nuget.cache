@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gLgFkqINiO7jGbKZdcv8cSN5BeJT25gjpZn0zxhGI9KHkSFFAr3qs9WWDmou9gbBufGfpIRZp7c5zn0rk1Sdbw==",
+  "success": true,
+  "projectFilePath": "D:\\srinivasu dandamudi\\FirstDotnet.Data\\FirstDotnet.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
