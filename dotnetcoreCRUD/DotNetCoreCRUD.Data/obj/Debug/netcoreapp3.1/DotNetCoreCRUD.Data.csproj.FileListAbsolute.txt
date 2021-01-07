@@ -1,0 +1,15 @@
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\bin\Debug\netcoreapp3.1\DotNetCoreCRUD.Data.deps.json
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\bin\Debug\netcoreapp3.1\DotNetCoreCRUD.Data.runtimeconfig.json
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\bin\Debug\netcoreapp3.1\DotNetCoreCRUD.Data.runtimeconfig.dev.json
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\bin\Debug\netcoreapp3.1\DotNetCoreCRUD.Data.dll
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\bin\Debug\netcoreapp3.1\DotNetCoreCRUD.Data.pdb
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\obj\Debug\netcoreapp3.1\DotNetCoreCRUD.Data.AssemblyInfoInputs.cache
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\obj\Debug\netcoreapp3.1\DotNetCoreCRUD.Data.AssemblyInfo.cs
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\obj\Debug\netcoreapp3.1\DotNetCoreCRUD.Data.csproj.CoreCompileInputs.cache
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\obj\Debug\netcoreapp3.1\DotNetCoreCRUD.Data.dll
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\obj\Debug\netcoreapp3.1\DotNetCoreCRUD.Data.pdb
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\obj\Debug\netcoreapp3.1\DotNetCoreCRUD.Data.genruntimeconfig.cache
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\bin\Debug\netcoreapp3.1\DotNetCoreCRUD.Models.dll
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\bin\Debug\netcoreapp3.1\DotNetCoreCRUD.Models.pdb
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\obj\Debug\netcoreapp3.1\DotNetCoreCRUD.Data.csprojAssemblyReference.cache
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Data\obj\Debug\netcoreapp3.1\DotNetCoreCRUD.Data.csproj.CopyComplete

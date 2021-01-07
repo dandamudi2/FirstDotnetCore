@@ -1,0 +1,9 @@
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Models\bin\Debug\netcoreapp3.1\DotNetCoreCRUD.Models.deps.json
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Models\bin\Debug\netcoreapp3.1\DotNetCoreCRUD.Models.dll
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Models\bin\Debug\netcoreapp3.1\DotNetCoreCRUD.Models.pdb
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Models\obj\Debug\netcoreapp3.1\DotNetCoreCRUD.Models.AssemblyInfoInputs.cache
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Models\obj\Debug\netcoreapp3.1\DotNetCoreCRUD.Models.AssemblyInfo.cs
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Models\obj\Debug\netcoreapp3.1\DotNetCoreCRUD.Models.csproj.CoreCompileInputs.cache
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Models\obj\Debug\netcoreapp3.1\DotNetCoreCRUD.Models.dll
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Models\obj\Debug\netcoreapp3.1\DotNetCoreCRUD.Models.pdb
+D:\srinivasu dandamudi\dotnetcoreCRUD\DotNetCoreCRUD.Models\obj\Debug\netcoreapp3.1\DotNetCoreCRUD.Models.csprojAssemblyReference.cache

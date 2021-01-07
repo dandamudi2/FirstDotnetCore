@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F95pHGzfQ5taGsB+iHoTkzugO2sZfP9WXLKKlzIvHpoZV7R1btlGgFRgHQR6TZ7yKXCCK7Z1n8Th5nJDQHIGRw==",
+  "success": true,
+  "projectFilePath": "D:\\srinivasu dandamudi\\dotnetcoreCRUD\\DotNetCoreCRUD.Models\\DotNetCoreCRUD.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

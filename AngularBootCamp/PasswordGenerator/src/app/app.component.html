@@ -1,0 +1,27 @@
+<div class="container mt-5 border p-4 rounded">
+    <form>
+        <div class="form-group">
+           <h5>Password Generator</h5>
+        </div>
+        <div class="form-group">
+            <label for="txtLength">Length</label>
+            <input class="form-control" id="txtLength" (input)="getInputLength($event.target.value)" />
+         </div>
+         <div class="form-group">
+           <input type="checkbox"  (change)="getUseLetters()"  class="checkbox" /> Use Letters
+         </div>
+         <div class="form-group">
+            <input type="checkbox"  (change)="getUseNumbers()" class="checkbox" /> Use Numbers
+          </div>
+          <div class="form-group">
+            <input type="checkbox" (change)="getUseSpecielCharacters()" class="checkbox" /> Use Speciel Characters
+          </div>
+        <div class="form-group">
+           <button class="btn btn-primary" type="button" (click)="assigngeneratePassword()" [disabled]="!(Length && (useLetters || useNumbers || useSpecielLetter))" >Generate!</button>
+        </div>
+        <div class="form-group" *ngIf="Password" >
+           <input type="text" class="form-control" [value]="Password" >
+         </div>
+
+    </form>
+</div>

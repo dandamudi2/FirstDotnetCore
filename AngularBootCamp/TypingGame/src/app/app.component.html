@@ -1,0 +1,22 @@
+<div class="container mt-4">
+  <div class="card">
+    <div class="card-header">
+      <h4 class="card-title">Typing Game</h4>
+    </div>
+    <div class="card-body">
+      <div class="form-group">
+        <span
+        [class]="compareText(letter,enteredText[i])"
+        *ngFor="let letter of randomText.split(''); let i = index"
+        >{{ letter }}</span
+      >
+      </div>
+      <div class="form-group">
+        <input type="text" (input)="OnInput($event.target.value)" class="form-control" />
+      </div>
+    </div>
+  </div>
+  <div class="text-center text-success h1" *ngIf="randomText === enteredText">
+          Success
+  </div>
+</div>
